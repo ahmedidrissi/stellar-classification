@@ -6,6 +6,6 @@ SpaceML Mega-Project : ENSIAS AI Club x ASTROMINES Club
   Thus, how to develop accurate and interpretable models that can effectively classify stars based on their spectral characteristics ?
 
 # Team members
-**ML :** Ahmed IDRISSI - Amina IDHMIDA \\
-**Data :** Asmae KARMOUCHI - Youssef SOUFIANI \\
-**Astro :** Soufiane ISMAILI ALAOUI - Hajar ABDESSADEK \\
+**ML :** Ahmed IDRISSI - Amina IDHMIDA \n
+**Data :** Asmae KARMOUCHI - Youssef SOUFIANI \
+**Astro :** Soufiane ISMAILI ALAOUI - Hajar ABDESSADEK \
