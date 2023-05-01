@@ -12,4 +12,4 @@ SpaceML Mega-Project : ENSIAS AI Club x ASTRONOMINES Club
 **Astro :** Soufiane ISMAILI ALAOUI - Hajar ABDESSADEK  
 
 ## Dataset
-<a href="https://www.kaggle.com/datasets/vinesmsuic/star-categorization-giants-and-dwarfs?taskId=1759">Kaggle</a>
+<a href="https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17">Kaggle - SDSS17</a>
